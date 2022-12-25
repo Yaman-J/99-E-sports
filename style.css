@@ -55,7 +55,7 @@ header{
     font-weight: 500;
 }
 .home span h3{
-    background-color: #ff3131;
+    background-color: #1f51ff;
     border-radius: 50px 50px 50px 50px;
     width: 100%;
     color: #fff;
@@ -73,14 +73,14 @@ header{
 .about h2{
     font-size: 2.5em;
     font-weight: 800;
-    color: #ff3131;
+    color: #1f51ff;
 }
 .about p{
     font-size: 1.3em;
     color: #fff;
 }
 .about p span{
-    color: #ff3131;
+    color: #1f51ff;
     font-weight: 500;
 }
 
@@ -94,7 +94,7 @@ header{
 .creators h2{
     font-size: 2.5em;
     font-weight: 800;
-    color: #ff3131;
+    color: #1f51ff;
 }
 .grid{
     display: flex;
@@ -138,7 +138,7 @@ header{
 .contact h2{
     font-size: 2.5em;
     font-weight: 800;
-    color: #ff3131;
+    color: #1f51ff;
 }
 .contact h3{
     font-size: 1.3em;

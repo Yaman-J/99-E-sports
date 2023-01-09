@@ -25,13 +25,13 @@ header{
 }
 .logo{
     text-decoration: none;
-    color: #ff3131;
+    color: #1f51ff;
     text-transform: uppercase;
     font-weight: 700;
     font-size: 1.3em;
 }
 .navigation a{
-    color: #ff3131;
+    color: #1f51ff;
     text-decoration: none;
     font-size: 1em;
     font-weight: 500;
@@ -118,7 +118,7 @@ header{
     margin-left: auto;
     margin-right: auto;
     font-size: 1.5em;
-    color: #ff3131;
+    color: #1f51ff;
 }
 .grid p{
     margin-left: auto;
